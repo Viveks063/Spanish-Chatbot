@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #282727;
+    color: aliceblue;
+    margin: 0;
+    padding: 0;
+    margin-left: 50px;
+}
+
+input[type="text"] {
+    width: 300px;
+    padding: 8px;
+    margin: 10px;
+    color: rgb(16, 126, 223);
+}
+input[type="submit"]
+{
+    margin: 20px;
+    background-color: rgb(110, 128, 6);
+    height: 30px;
+    width: 70px;
+    color: aliceblue;
+}
+body .response
+{
+    color: rgb(7, 156, 7);
+    margin: 20px;
+
+}
+
+
